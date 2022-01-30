@@ -1,2 +1,3 @@
-# sfg-beer-works-bom
-yovo's repository
+SFG Beer Works BOM
+
+Common BOM for SFG Beer Works Projects
